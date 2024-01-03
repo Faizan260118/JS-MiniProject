@@ -1,13 +1,13 @@
 const targetEl = document.querySelector("span");
 
 const setOnline = () => {
-    targetEl.innerText = "Online 😍",
-    targetEl.style.color = "#30cf59"
+    targetEl.innerText = "Online 😍";
+    targetEl.style.color = "#30cf59";
 }
 
 const setOffline = () => {
-    targetEl.innerText = "Offline 😒",
-    targetEl.style.color = "red"
+    targetEl.innerText = "Offline 😒";
+    targetEl.style.color = "red";
 }
 
 window.addEventListener('online0', setOnline);
