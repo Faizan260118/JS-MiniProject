@@ -6,9 +6,9 @@
 
 ## Technology used:-
 
-> HTML
-> CSS
-> JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Projects List ⬇️
 
