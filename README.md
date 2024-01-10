@@ -11,7 +11,7 @@
 
 ## Projects List ⬇️
 
-1 Interactive Player Name Update.
-2 online and offline events.
-3 Weather App Using JS.
-4 To-Do List Using JS.
+1 Interactive Player Name Update </br>
+2 online and offline events </br>
+3 Weather App Using JS </br>
+4 To-Do List Using JS </br>
