@@ -4,11 +4,11 @@
 
 ## If you have any project idea or suggestion related to javascript please let me know.
 
->Technology used:-
+## Technology used:-
 
-- HTML
-- CSS
-- JAVASCRIPT
+> HTML
+> CSS
+> JAVASCRIPT
 
 ## Projects List ⬇️
 
