@@ -8,3 +8,10 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+## Projects List ⬇️
+
+1 Interactive Player Name Update
+2 online and offline events
+3 Weather App Using JS
+4 To_Do List Using JS
