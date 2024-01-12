@@ -14,6 +14,6 @@
 
 1. Interactive Player Name Update </br>
 2. online and offline events </br>
-3. Weather App Using JS </br>
-4. To-Do List Using JS </br>
-5. Quiz App Using JS </br>
+3. Weather App </br>
+4. To-Do List </br>
+5. Quiz App </br>
