@@ -16,3 +16,4 @@
 2. online and offline events </br>
 3. Weather App Using JS </br>
 4. To-Do List Using JS </br>
+5. Quiz App Using JS </br>
