@@ -17,3 +17,4 @@
 3. Weather App </br>
 4. To-Do List </br>
 5. Quiz App </br>
+6. Generate A Random Password </br>
