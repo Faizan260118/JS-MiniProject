@@ -18,3 +18,4 @@
 4. To-Do List </br>
 5. Quiz App </br>
 6. Generate A Random Password </br>
+7. Notes App </br>
