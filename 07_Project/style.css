@@ -11,23 +11,23 @@
     background: linear-gradient(135deg, #cf9aff, #95c0ff);
     color: #fff;
     padding-top: 2%;
-    padding-left: 8%;
+    padding-left: 5%;
 }
 
 .container h1 {
     display: flex;
     align-items: center;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: 600;
 }
 
 .container h1 img {
-    width: 45px;
+    width: 55px;
 }
 
 .container button img {
-    width: 20px;
-    margin-right: 6px;
+    width: 25px;
+    margin-right: 10px;
 }
 
 .container button {
@@ -35,11 +35,11 @@
     align-items: center;
     background: linear-gradient(#9418fd, #571094);
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     outline: 0;
     border: 0;
     border-radius: 40px;
-    padding: 10px 18px;
+    padding: 15px 20px;
     margin: 20px 0 15px;
     cursor: pointer;
 }
@@ -48,20 +48,20 @@
     font-size: 12px;
     position: relative;
     width: 100%;
-    max-width: 360px;
-    min-height: 100px;
+    max-width: 450px;
+    min-height: 130px;
     background: #fff;
     color: #333;
     padding: 15px;
-    margin: 15px 0;
+    margin: 20px 0;
     outline: none;
     border-radius: 5px;
 }
 
 .input-box img {
-    width: 20px;
+    width: 25px;
     position: absolute;
-    bottom: 8px;
-    right: 8px;
+    bottom: 12px;
+    right: 12px;
     cursor: pointer;
 }
