@@ -10,11 +10,11 @@ body {
 }
 
 .card {
-    width: 80%;
-    max-width: 360px;
+    width: 100%;
+    max-width: 450px;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
-    margin: 30px auto 0;
+    margin: 100px auto 0 ;
     border-radius: 20px;
     padding: 30px 35px;
     text-align: center;
@@ -34,11 +34,11 @@ body {
     outline: 0;
     background: #ebfffc;
     color: #555;
-    padding: 10px 25px;
-    height: 30px;
+    padding: 20px 30px;
+    height: 45px;
     border-radius: 30px;
     flex: 1;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .search button {
@@ -46,13 +46,13 @@ body {
     outline: 0;
     background-color: #ebfffc;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
+    width: 45px;
+    height: 45px;
     cursor: pointer;
 }
 
 .search button img {
-    width: 14px;
+    width: 18px;
 }
 
 .weather-icon {
