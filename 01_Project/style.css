@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+button {
+    background-color: #505050;
+    color: #fff;
+    border: 2px solid gray;
+    width: 20vw;
+    height: 7vh;
+    border-radius: 10px;
+    font-size: 2rem;
+}
