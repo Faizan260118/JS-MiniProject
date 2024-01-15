@@ -12,7 +12,7 @@
 
 ## Projects List ⬇️
 
-1. Interactive Player Name Update [~~~Preview Project]()</br>
+1. Interactive Player Name Update ~~~Preview Project~~~</br>
 
 2. online and offline events [Preview Project](https://onlineofflineevent.netlify.app/)</br>
 
