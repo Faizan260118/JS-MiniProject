@@ -4,62 +4,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Password Generator</title>
+    <title>Notes App</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
     <div class="container">
-        <h1>Generate a<br><span>Random Password</span></h1>
-        <div class="display">
-            <input type="text" id="password" placeholder="Password">
-            <img src="./image/copy.png" alt="icon" onclick="copyPassword()">
+        <h1><img src="images/notes.png" alt="">Notes</h1>
+        <button class="btn"><img src="images/edit.png" alt="">Create Notes</button>
+        <div class="notes-container">
+            <!-- <p contenteditable="true" class="input-box">
+                <img src="images/delete.png" alt="">
+            </p> -->
         </div>
-        <button onclick="createPassword()" id="button" onmouseout="hoverButton()"
-            onmouseover="channgeButtonColor()"><img src="./image/generate.png" alt="icon">Generate Password</button>
     </div>
-
-    <script>
-
-        const passwordBox = document.getElementById("password");
-        const buttonBox = document.getElementById("button");
-        const length = 16;
-
-        const upperCase = "QWERTYUIOPLKJHGFDSAZXCVBNM";
-        const lowerCase = "qwertyuioplkjhgfdsazxcvbnm";
-        const number = "0123456789";
-        const symbol = "@#$%^&*()_+-~}{|/?";
-
-        const allChars = upperCase + lowerCase + number + symbol;
-
-        function createPassword() {
-            let password = "";
-            password += upperCase[Math.floor(Math.random() * upperCase.length)];
-            password += lowerCase[Math.floor(Math.random() * lowerCase.length)];
-            password += number[Math.floor(Math.random() * number.length)];
-            password += symbol[Math.floor(Math.random() * symbol.length)];
-
-            while (length > password.length) {
-                password += allChars[Math.floor(Math.random() * allChars.length)];
-            }
-            passwordBox.value = password;
-        }
-
-        function copyPassword() {
-            passwordBox.select();
-            document.execCommand("copy");
-        }
-
-        function hoverButton() {
-            document.getElementById("button").style.backgroundColor = "#019f55";
-        }
-        function channgeButtonColor() {
-            document.getElementById("button").style.backgroundColor = "#007941"
-        }
-
-    </script>
-
+    <script src="script.js"></script>
 </body>
 
 </html>
