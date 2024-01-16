@@ -28,4 +28,4 @@
 
 8. Quote Generator [Preview Project](https://randombeautifulquote.netlify.app/ "Quote Generator") </br>
 
-8. QR Code Generator [Preview Project](https://randomqrcodegenerator.netlify.app/ "QR Code Generator") </br>
+9. QR Code Generator [Preview Project](https://randomqrcodegenerator.netlify.app/ "QR Code Generator") </br>
