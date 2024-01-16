@@ -2,87 +2,98 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'poppins', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 
-::selection {
-    background: white;
-    color: #333;
+body {
+    background: #bbc6fa;
 }
 
-.container {
-    width: 100%;
-    min-height: 100vh;
-    background: linear-gradient(135deg, #4203a9, #90bafc);
-    color: #fff;
-    padding: 10px;
-}
-
-.calculator {
-    width: 100%;
-    max-width: 450px;
-    margin-left: 6%;
-    margin-top: 4%;
-}
-
-.calculator h1 {
-    font-size: 55px;
-}
-
-.calculator h1 span {
-    color: #ffff76;
-}
-
-.input-box {
-    margin: 30px 0;
-    padding: 20px 25px;
+.quote-box {
+    background: #fff;
+    width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 40px;
     border-radius: 10px;
-    background: rgba(255, 255, 255, 0.3);
-    display: flex;
-    align-items: center;
+    text-align: center;
+    box-shadow: 0 10px 20px 0px rgba(0, 0, 0, 0.15);
 }
 
-.input-box input {
-    flex: 1;
-    margin-right: 20px;
-    padding: 14px 20px;
-    border: 0;
-    outline: 0;
-    font-size: 16px;
-    border-radius: 5px;
+.quote-box h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
     position: relative;
 }
 
-.input-box button {
-    background: #ffff76;
-    border: 0;
-    outline: 0;
-    padding: 15px 30px;
-    border-radius: 5px;
-    font-weight: 500;
-    color: #333;
-    cursor: pointer;
-}
-
-.input-box input::-webkit-calendar-picker-indicator {
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: auto;
-    height: auto;
+.quote-box h2::after {
+    content: '';
+    width: 75px;
+    height: 3px;
+    border-radius: 3px;
+    background: rgb(23, 124, 229);
     position: absolute;
-    background-position: calc(100% - 10px);
-    background-size: 30px;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.quote-box blockquote {
+    font-size: 26px;
+    min-height: 110px;
+}
+
+.quote-box blockquote::before,
+.quote-box blockquote::after {
+    content: '""';
+}
+
+.quote-box span {
+    display: block;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+}
+
+.quote-box span::before {
+    content: '';
+    width: 20px;
+    height: 2px;
+    background: rgb(23, 124, 229);
+    position: absolute;
+    top: 50%;
+    left: -30px;
+}
+
+.quote-box div {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-box button {
+    background: rgb(23, 124, 229);
+    color: #fff;
+    border-radius: 25px;
+    border: 1px solid rgb(23, 124, 220);
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
     cursor: pointer;
 }
 
-#result {
-    font-size: 18px;
-    font-weight: 300;
-    padding-left: 10px;
+.quote-box button img {
+    width: 20px;
+    margin-right: 10px;
 }
 
-#result span {
-    color: #ffff76;
+.quote-box button:nth-child(2) {
+    background: transparent;
+    color: #333;
 }
