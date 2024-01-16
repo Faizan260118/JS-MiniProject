@@ -26,6 +26,6 @@
 
 7. Age Calculator [Preview Project](https://agecalculatorusingjs.netlify.app/ "Age Calculator") </br>
 
-8. Quote Generator [Preview Project](https://randombeautifulquote.netlify.app// "Quote Generator") </br>
+8. Quote Generator [Preview Project](https://randombeautifulquote.netlify.app/ "Quote Generator") </br>
 
-8. QR Code Generator [Preview Project](https://randombeautifulquote.netlify.app// "QR Code Generator") </br>
+8. QR Code Generator [Preview Project](https://randomqrcodegenerator.netlify.app/ "QR Code Generator") </br>
