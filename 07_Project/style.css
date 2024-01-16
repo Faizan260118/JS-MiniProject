@@ -5,63 +5,84 @@
     font-family: 'poppins', sans-serif;
 }
 
+::selection {
+    background: white;
+    color: #333;
+}
+
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #cf9aff, #95c0ff);
+    background: linear-gradient(135deg, #4203a9, #90bafc);
     color: #fff;
-    padding-top: 2%;
-    padding-left: 5%;
+    padding: 10px;
 }
 
-.container h1 {
-    display: flex;
-    align-items: center;
-    font-size: 45px;
-    font-weight: 600;
+.calculator {
+    width: 100%;
+    max-width: 450px;
+    margin-left: 6%;
+    margin-top: 4%;
 }
 
-.container h1 img {
-    width: 55px;
+.calculator h1 {
+    font-size: 55px;
 }
 
-.container button img {
-    width: 25px;
-    margin-right: 10px;
-}
-
-.container button {
-    display: flex;
-    align-items: center;
-    background: linear-gradient(#9418fd, #571094);
-    color: #fff;
-    font-size: 16px;
-    outline: 0;
-    border: 0;
-    border-radius: 40px;
-    padding: 15px 20px;
-    margin: 20px 0 15px;
-    cursor: pointer;
+.calculator h1 span {
+    color: #ffff76;
 }
 
 .input-box {
-    font-size: 12px;
-    position: relative;
-    width: 100%;
-    max-width: 450px;
-    min-height: 130px;
-    background: #fff;
-    color: #333;
-    padding: 15px;
-    margin: 20px 0;
-    outline: none;
-    border-radius: 5px;
+    margin: 30px 0;
+    padding: 20px 25px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    display: flex;
+    align-items: center;
 }
 
-.input-box img {
-    width: 25px;
-    position: absolute;
-    bottom: 12px;
-    right: 12px;
+.input-box input {
+    flex: 1;
+    margin-right: 20px;
+    padding: 14px 20px;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.input-box button {
+    background: #ffff76;
+    border: 0;
+    outline: 0;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: #333;
     cursor: pointer;
+}
+
+.input-box input::-webkit-calendar-picker-indicator {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    background-position: calc(100% - 10px);
+    background-size: 30px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 18px;
+    font-weight: 300;
+    padding-left: 10px;
+}
+
+#result span {
+    color: #ffff76;
 }
