@@ -29,3 +29,5 @@
 8. Quote Generator [Preview Project](https://randombeautifulquote.netlify.app/ "Quote Generator") </br>
 
 9. QR Code Generator [Preview Project](https://randomqrcodegenerator.netlify.app/ "QR Code Generator") </br>
+
+10. Toast Notification Bar [Preview Project](https://toastnotificationbar.netlify.app/ "Notification Bar") </br>
