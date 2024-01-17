@@ -31,3 +31,5 @@
 9. QR Code Generator [Preview Project](https://randomqrcodegenerator.netlify.app/ "QR Code Generator") </br>
 
 10. Toast Notification Bar [Preview Project](https://toastnotificationbar.netlify.app/ "Notification Bar") </br>
+
+10. Music Player [Preview Project](https://musicplayer-omahi.netlify.app/ "Music Player") </br>
