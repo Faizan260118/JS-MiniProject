@@ -33,3 +33,5 @@
 10. Toast Notification Bar [Preview Project](https://toastnotificationbar.netlify.app/ "Notification Bar") </br>
 
 10. Music Player [Preview Project](https://musicplayer-omahi.netlify.app/ "Music Player") </br>
+
+10. StopWatch [Preview Project](https://simplestopwatch-js.netlify.app/ "Stopwatch") </br>
