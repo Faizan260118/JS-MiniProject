@@ -43,3 +43,5 @@
 15. Popup Effect [Preview Project](https://simplepopupeffect.netlify.app/ "Popupeffect") </br>
 
 16. Hide/show Password [Preview Project](https://hideshowpassword.netlify.app/ "hideshowpassword") </br>
+
+17. Dark Mode [Preview Project](https://simpledarkmode.netlify.app/ "Darkmode") </br>
