@@ -12,7 +12,7 @@
 
 ## Projects List ⬇️
 
-1. online and offline events [Preview Project](https://onlineofflineevent.netlify.app/ "Event") </br>
+1. online and offline events [Preview Project](https://onlineofflineevent.netlify.app/ "online/offlineEvent") </br>
 
 2. Weather App [Preview Project](https://cityweatherappusingjs.netlify.app/ "Weather App") </br>
 
@@ -40,4 +40,6 @@
 
 14. Calculator [Preview Project](https://simpleblackcalculator.netlify.app/ "Calculator") </br>
 
-14. Popup Effect [Preview Project](https://simplepopupeffect.netlify.app/ "Popupeffect") </br>
+15. Popup Effect [Preview Project](https://simplepopupeffect.netlify.app/ "Popupeffect") </br>
+
+16. Hide/show Password [Preview Project](https://hideshowpassword.netlify.app/ "hideshowpassword") </br>
