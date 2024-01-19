@@ -40,4 +40,4 @@
 
 14. Calculator [Preview Project](https://simpleblackcalculator.netlify.app/ "Calculator") </br>
 
-14. Calculator [Preview Project](https://simplepopupeffect.netlify.app/ "Calculator") </br>
+14. Popup Effect [Preview Project](https://simplepopupeffect.netlify.app/ "Popupeffect") </br>
