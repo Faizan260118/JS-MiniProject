@@ -47,3 +47,5 @@
 17. Dark Mode [Preview Project](https://simpledarkmodesite.netlify.app/ "Darkmode") </br>
 
 18. Form Validating [Preview Project](https://formvalidatingsite.netlify.app/ "formvalidating") </br>
+
+19. Image Gallery [Preview Project](https://imagegallery-horizontalscroll.netlify.app/ "imagegallery") </br>
