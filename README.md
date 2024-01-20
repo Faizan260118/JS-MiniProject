@@ -45,3 +45,5 @@
 16. Hide/show Password [Preview Project](https://hideshowpassword.netlify.app/ "hideshowpassword") </br>
 
 17. Dark Mode [Preview Project](https://simpledarkmodesite.netlify.app/ "Darkmode") </br>
+
+18. Form Validating [Preview Project](https://formvalidatingsite.netlify.app/ "formvalidating") </br>
