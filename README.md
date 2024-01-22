@@ -49,3 +49,5 @@
 18. Form Validating [Preview Project](https://formvalidatingsite.netlify.app/ "formvalidating") </br>
 
 19. Image Gallery [Preview Project](https://imagegallery-horizontalscroll.netlify.app/ "imagegallery") </br>
+
+20. Email Subscription [Preview Project](https://emailsubscriber.netlify.app/ "emailsubscription") </br>
