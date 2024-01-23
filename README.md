@@ -51,3 +51,5 @@
 19. Image Gallery [Preview Project](https://imagegallery-horizontalscroll.netlify.app/ "imagegallery") </br>
 
 20. Email Subscription [Preview Project](https://emailsubscriber.netlify.app/ "emailsubscription") </br>
+
+21. Password Strength [Preview Project](https://strengthpassword.netlify.app/ "passwordstrength") </br>
