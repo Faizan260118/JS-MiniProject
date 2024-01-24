@@ -53,3 +53,5 @@
 20. Email Subscription [Preview Project](https://emailsubscriber.netlify.app/ "emailsubscription") </br>
 
 21. Password Strength [Preview Project](https://strengthpassword.netlify.app/ "passwordstrength") </br>
+
+22. Speech Converter [Preview Project](https://texttovoiceconverter.netlify.app/ "speechconverter") </br>
