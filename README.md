@@ -59,3 +59,5 @@
 23. Website Coming Soon [Preview Project](https://launchingsoonpage.netlify.app/ "comingsoonpage") </br>
 
 24. Background Effect [Preview Project](https://backgroundeffect.netlify.app/ "backgroundeffect") </br>
+
+24. Mini Calendar [Preview Project](https://digitalminicalendar.netlify.app/ "minicalendar") </br>
