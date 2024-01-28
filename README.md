@@ -61,3 +61,5 @@
 24. Background Effect [Preview Project](https://backgroundeffect.netlify.app/ "backgroundeffect") </br>
 
 25. Mini Calendar [Preview Project](https://digitalminicalendar.netlify.app/ "minicalendar") </br>
+
+26. Multiple Select Menu [Preview Project](https://selectmenu.netlify.app/ "selectmenu") </br>
