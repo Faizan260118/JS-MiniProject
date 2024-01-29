@@ -63,3 +63,7 @@
 25. Mini Calendar [Preview Project](https://digitalminicalendar.netlify.app/ "minicalendar") </br>
 
 26. Multiple Select Menu [Preview Project](https://selectmenu.netlify.app/ "selectmenu") </br>
+
+27. Circle Progress Bar [Preview Project](https://circleprogressbar.netlify.app/ "progressbar") </br>
+
+28. Product Page Design [Preview Project](https://selectmenu.netlify.app/ "productpage") </br>
