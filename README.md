@@ -66,4 +66,4 @@
 
 27. Circle Progress Bar [Preview Project](https://circleprogressbar.netlify.app/ "progressbar") </br>
 
-28. Product Page Design [Preview Project](https://selectmenu.netlify.app/ "productpage") </br>
+28. Product Page Design [Preview Project](https://clothproductpage.netlify.app/ "productpage") </br>
