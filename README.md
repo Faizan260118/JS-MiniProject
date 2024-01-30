@@ -70,4 +70,6 @@
 
 29. Crypto Website [Preview Project](https://cryptobroking.netlify.app/ "cryptowebsite") </br>
 
-29. Digital Clock [Preview Project](https://digitalclocktime.netlify.app/ "digitalclock") </br>
+30. Digital Clock [Preview Project](https://digitalclocktime.netlify.app/ "digitalclock") </br>
+
+31. Drag And Drop [Preview Project](https://draganddropitem.netlify.app/ "draganddrop") </br>
