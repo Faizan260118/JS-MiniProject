@@ -69,3 +69,5 @@
 28. Product Page Design [Preview Project](https://clothproductpage.netlify.app/ "productpage") </br>
 
 29. Crypto Website [Preview Project](https://cryptobroking.netlify.app/ "cryptowebsite") </br>
+
+29. Digital Clock [Preview Project](https://digitalclocktime.netlify.app/ "digitalclock") </br>
