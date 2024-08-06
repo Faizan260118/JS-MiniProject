@@ -56,7 +56,7 @@
 
 22. Speech Converter [Preview Project](https://texttovoiceconverter.netlify.app/ "speechconverter") </br>
 
-23. Website Coming Soon [Preview Project](https://launchingsoonpage.netlify.app/ "comingsoonpage") </br>
+23. Website Coming Soon [Preview Project](https://websitelauchpage.netlify.app/ "comingsoonpage") </br>
 
 24. Background Effect [Preview Project](https://backgroundeffect.netlify.app/ "backgroundeffect") </br>
 
