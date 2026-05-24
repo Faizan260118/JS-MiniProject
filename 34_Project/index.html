@@ -20,7 +20,7 @@
 			body {
 				background: #020202;
 				color: #ffffff;
-				font-family: "Poppins", sans-serif;
+				font-family: 'Poppins', sans-serif;
 				height: 100vh;
 				display: flex;
 				flex-direction: column;
@@ -74,7 +74,7 @@
 			}
 
 			.number {
-				font-family: "Orbitron", monospace;
+				font-family: 'Orbitron', monospace;
 				font-weight: 900;
 				font-size: clamp(48px, 8vw, 110px);
 				color: #00d2ff;
@@ -103,7 +103,7 @@
 			}
 
 			.separator {
-				font-family: "Orbitron", sans-serif;
+				font-family: 'Orbitron', sans-serif;
 				font-size: 2.4rem;
 				color: rgba(0, 210, 255, 0.3);
 				animation: blink 1.5s infinite;
@@ -165,7 +165,7 @@
 				<h1>Time Remaining For <span class="year">Project Deadline</span></h1>
 			</div>
 
-			<div class="countdown" data-target="2026-06-01T00:00:00">
+			<div class="countdown" data-target="2026-08-01T00:00:00">
 				<div class="time-box">
 					<span class="number days">000</span>
 					<span class="label">Days</span>
@@ -199,21 +199,21 @@
 				const target = new Date(container.dataset.target).getTime();
 
 				const els = {
-					days: container.querySelector(".days"),
-					hours: container.querySelector(".hours"),
-					minutes: container.querySelector(".minutes"),
-					seconds: container.querySelector(".seconds"),
+					days: container.querySelector('.days'),
+					hours: container.querySelector('.hours'),
+					minutes: container.querySelector('.minutes'),
+					seconds: container.querySelector('.seconds'),
 				};
 
 				function update() {
 					let diff = target - Date.now();
 
 					if (diff <= 0) {
-						els.days.textContent = "000";
+						els.days.textContent = '000';
 						els.hours.textContent =
 							els.minutes.textContent =
 							els.seconds.textContent =
-								"00";
+								'00';
 						return;
 					}
 
@@ -224,17 +224,17 @@
 					const m = Math.floor(diff / 60000);
 					const s = Math.floor((diff % 60000) / 1000);
 
-					els.days.textContent = String(d).padStart(3, "0");
-					els.hours.textContent = String(h).padStart(2, "0");
-					els.minutes.textContent = String(m).padStart(2, "0");
-					els.seconds.textContent = String(s).padStart(2, "0");
+					els.days.textContent = String(d).padStart(3, '0');
+					els.hours.textContent = String(h).padStart(2, '0');
+					els.minutes.textContent = String(m).padStart(2, '0');
+					els.seconds.textContent = String(s).padStart(2, '0');
 				}
 
 				update();
 				setInterval(update, 1000);
 			}
 
-			document.querySelectorAll(".countdown").forEach(startTimer);
+			document.querySelectorAll('.countdown').forEach(startTimer);
 		</script>
 	</body>
 </html>
